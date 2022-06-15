@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--INFORMACION PARA EL NAVEGADOR, NO ES VISIBLE-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta lang="es-ES">
+  <meta name="Keywords" content="SEO, WEB, HTML, DISENO">
+  <meta name="author" content="Efemerides Marzo, México">
+  <!--Vincular el CSS con el HTML-->
+  <link rel="stylesheet" href="style.css">
+  <!--TITULO DE LA VENTANA-->
+  <title>REVISTA CLASICA, CULTURA Y ESPIRITUALIDAD</title>
+</head>
+
+<!--MAQUETACION WEB CON HTML SEMANTICO-->
+
+<body>
+
+  <!--ENCABEZADO DE PAGINA WEB-->
+  <header>
+    <h1>REVISTA CLASICA, CULTURA Y ESPIRITUALIDAD </h1>
+    <h2>UN LIBRO ABIERTO ES UN CEREBRO QUE HABLA; CERRADO, ES UN AMIGO QUE ESPERA </h2>
+  </header>
+  
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+
+
+  <!--MENU DE NAVEGACION-->
+  <nav class="menu">
+    <ol type="disc" start="10" title="MENU">
+      <li>
+        <a href="https://www.caracteristicas.co/arte/">ARTES</a>
+      </li>
+      <li>
+        <a href="https://www.significados.com/tipos-de-cultura/">CULTURA</a>
+      </li>
+      <li>
+      <a href="https://www.gob.mx/inifap/articulos/plantas-medicinales-tradicion-ancestral">PLANTAS</a>
+      </li>
+      <li>
+        <a href="https://laminadeplata.com/simbolos-amuletos-talismanes/">AMULETOS</a>
+      </li>
+      <li>
+        <a href="https://concepto.de/astrologia/">ASTROLOGIA</a>
+      </li>
+    </ol>
+
+  </nav>
+  <br>
+
+  <!--CONTENEDOR PRINCIPAL DE LA SECCIÓN-->
+  <main role="main">
+    <!--SECCION PARA LOS ARTICULOS DE LA PAGINA-->
+    <section>
+      <!--ARTICULO SEMANA 1-->
+      <article>
+        <hgroup>
+          <h2>FLORES Y HIERVAS</h2>
+          <h3>Plantas medicinales</h3>
+        </hgroup>
+
+        <time datetime="01/03/22">S. Horacio Guzmán Maldonado, Rocío S. Díaz Huacuz, Mario M. González Chavira</time>
+        <p>En México, existe un sinnúmero de plantas medicinales de uso, tradicional, producto de la combinación de la herbolaria precolombina y la europea. En este documento se ofrece información de ocho de ellas, las cuales fueron seleccionadas por ser ampliamente conocidas por el público y ser de uso general. Además de ser recomendadas para tratar malestares o enfermedades muy comunes como la diabetes, quemaduras y problemas estomacales, entre otros. Las especies seleccionadas son: árnica, epazote, hierbabuen, insulina, lavya, manzanilla, stevia y sábila. En general, se desconoce la variabilidad genética de estas especies.</p>
+        
+      <img src="https://media.admagazine.com/photos/6238bfaaba179a59889b8304/16:9/w_2560%2Cc_limit/arnica.jpg" title="ARNICA">
+        <img src=https://m.media-amazon.com/images/I/71PcpoAyqjL._AC_SX425_.jpg alt="ICON A" title="EPAZOTE">
+        <img src=https://farmaciaribera.es/blog/wp-content/uploads/2013/12/hierbabuena.jpg alt="ICON A" title="HIERBA BUENA">
+        <img src=https://media.admagazine.com/photos/61f8578e06c10ae95c71ba6b/4:3/w_2719,h_2039,c_limit/Planta%20de%20insulina.jpg alt="ICON A" title="Logo AEP">
+        <img src=https://t2.ev.ltmcdn.com/es/posts/3/0/2/para_que_sirve_la_planta_de_manzanilla_beneficios_y_usos_2203_1_600.jpg alt
+        ="ICON A" title="Logo AEP">
+         <img src=https://www.optimomexico.mx/wp-content/uploads/2017/10/PostLaStevia.jpg alt="ICON A" title="Logo AEP">
+       
+       
+        <footer>
+          <!--PROVEER FUENTE DE CONSULTA-->
+          <address>
+            <a href=https://vun.inifap.gob.mx/VUN_MEDIA/BibliotecaWeb/_media/_folletoinformativo/1044_4729_Plantas_medicinales_la_realidad_de_una_tradici%C3%B3n_ancestral.pdf>PLANTAS MEDICINALES
+              LA REALIDAD DE UNA TRADICIÓN ANCESTRAL</a>
+          </address>
+        </footer>
+      </article>
+
+
+      <!--ARTICULO SEMANA 2-->
+      <article>
+        <hgroup>
+          <h2>CRISTALES</h2>
+          <h3>Yulia Van Doren</h3>
+        </hgroup>
+        <time datetime="04/03/22">A la venta desde el 9 de octubre de 2018</time>
+        <p>Los cristales pueden llenar tu vida con una magia brillante y singular. Estas piedras nacieron entre los estruendos y los vaivenes de nuestra preciosa Tierra. Fueron sembradas, literalmente, por el polvo estelar en el origen de los tiempos. Estos cristales y minerales son unas herramientas mágicas muy fáciles de incorporar a tu vida diaria. No es necesario que poseas unos conocimientos especiales o lleves a cabo un entrenamiento concreto para empezar a experimentar su poder y, por supuesto,tampoco tienes que gastar grandes cantidades de dinero en caros ejemplares. Para empezar, no necesitas más que una curiosidad libre de prejuicios y la capacidad dedejarte sorprender por estas intrincadas, hermosas y poderosas creaciones.</p>
+         
+         <img src="https://ecoosfera.com/resizer/ak6nKZnKozgxYNwLcmFDSp9F2xA=/arc-photo-culturacolectiva/arc2-prod/public/OTEVC5XRZZFAVPUVFRVD55TGQM.jpg" alt="Danza">
+         <img src="http://cdn.shopify.com/s/files/1/0098/3272/6624/articles/A_Beginner_s_Guide_to_Using_Crystals_1200x1200.jpeg?v=1593811735" alt="Danza">
+  
+        <figure>
+           <h2>¿Como funcionan?</h2>
+           <p>Los cristales desprenden luz independientemente del lugar donde se encuentren. Son la más asombrosa creación de la madre naturaleza. A lo largo de la historia, las personas los
+           han colocado en sus casas como simples objetos de decoración orgánicos. Sin embargo, sus poderes transformadores van más allá de lo que se ve a simple vista.</p>
+           <p>1. VIBRACIÓN. Los cristales son creaciones únicas de la naturaleza. Sus átomos siguen un patrón altamente simétrico llamado red cristalina. De hecho, esta simetría atómica perfecta los
+           convierte en poderosos recipientes y transmisores de energía y vibración.</p>
+          
+          <p>2. COLOR. La ciencia ha demostrado que los colores que nos rodean nos afectan profundamente a nivel físico y emocional. Poner cristales es una manera sencilla de darle unas pinceladas de color orgánico y luminoso a nuestras casas o lugares de trabajo, además de, literalmente, cargarnos de energía con sus inspiradoras tonalidades del arcoíris.</p>
+           
+           <p>3. TALISMÁN. Un talismán, tradicionalmente, se define como un objeto que tiene propiedades mágicas o milagrosas. Cuando eliges un cristal con unos fines específicos, como el cuarzo rosa
+           para encontrar el amor, o la pirita para ganar confianza, estás transformando ese cristal en tu talismán mágico personalizado. Son unos aliados poderosos y responsables. Su presencia
+           cercana te ayuda empujándote, consciente e inconscientemente, hacia la persona que te gustaría ser, las energías que te gustaría tener y hacia la nueva vida que estás a punto de  empezar</p>
+           
+          <img src="https://geologiaweb.com/wp-content/uploads/2020/07/cuarzo-rosa.jpg" alt="cuarzo rosa">  
+          <img src="https://geologiaweb.com/wp-content/uploads/2020/12/jade-verde.jpg" alt="jade">
+          <img src="https://geologiaweb.com/wp-content/uploads/2020/06/topacio.jpg" alt="topacio">
+          <img src="https://geologiaweb.com/wp-content/uploads/2020/10/lapislazuli.jpg" alt="lapilazuli">
+          <img src="https://geologiaweb.com/wp-content/uploads/2021/04/obsidiana-de-fuego.jpg" alt="obsidiana">
+          <img src="https://geologiaweb.com/wp-content/uploads/2020/10/piedra-zafiro-azul.jpg" alt="zafiro azul">
+          
+          <figcaption>
+            <p>Diferentes cristales y sus funciones .</p>
+          
+          </figcaption>
+          </ </figure>
+          <footer>
+          
+            <!--ARTICULO SEMANA 3-->
+            <article>
+              <hgroup>
+                <h2>CULTURA</h2>
+                <h3>Cultura Wicca</h3>
+              </hgroup>
+            
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/MfAGHszOyUs?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/R8AwPczE7eI?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
+          
+          <article>
+            <hgroup>
+              <h2>TALISMANES</h2>
+              <h3>El diseñador - David Weitzman</h3>
+            </hgroup>
+            
+            <h2>¿Qué es un talismán?</h2>
+            <p>La palabra "talismán" se deriva del verbo griego "teleo" que significa, principalmente, lograr o causar efecto. El talismán es un objeto marcado con signos mágicos y se cree que confiere a su portador poderes sobrenaturales o protección. Prácticamente, todas las religiones en la historia de la humanidad han ofrecido como adherentes, pequeños objetos decorativos cuyo propósito es realizar cosas que van desde la curación y la protección hasta el éxito.</p>
+          
+            
+         <iframe src="https://i.pinimg.com/originals/e6/46/d2/e646d2684fce0e370aaf29f328eeb266.png" alt="cuarzo rosa" width="400" height="350"></iframe> 
+            
+          </figcaption>
+          </ </figure>
+          <footer>
+           
+           
+          <!--PROVEER INFORMACION DE CONTACTO DEL AUTOR DEL ARTÍCULO-->
+            <address>
+              Araujo Puc Allison Rocio y Villanueva Acosta Hannia <br>
+              <a href="mailto:aespadas@gmail.com">allisonaraujo@gmail.com</a><br>
+               <a href=https://www.planetadelibros.com/libros_contenido_extra/39/38835_1_NP_Cristales2.pdf>CRISTALES_GUIA</a>
+              CBTIS214, Ignacio Allende<br>
+              6AMDG<br>
+              Colonia del Bosque, Chetumal QROO<br>
+              +52 983 753 7109
+            </address>
+          </footer>
+
+      </article>
+    </section>
+
+    <!--SECCION LATERAL DE LA PAGINA-->
+    <aside class="fuentes">
+      <ul>
+      <a href="https://image.slidesharecdn.com/lafaselunarlunanueva1-130502014529-phpapp02/95/la-fase-lunar-luna-nueva-1-3-638.jpg?cb=1367459164" target="_parent">Luna Nueva</a>
+    
+      <a href="https://palabrasclaras.mx/wp-content/uploads/2020/10/5315_resize_43.jpg" target="_parent">Luna Cóncava</a>
+      
+      <a href="https://s.calendarr.com/upload/articles/me/ng/menguante-convexa.jpg?auto_optimize=low&width=640" target="_parent">Luna convexa <a/>
+      
+      <a href="https://www.explica.me/__export/1642615139587/sites/debate/img/2022/01/19/luna_llena_febrero_2022.png_423682103.png" target="_parent">Luna Llena</a>
+     
+      <a href="https://st1.uvnimg.com/dims4/default/4a06052/2147483647/thumbnail/480x270/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Fcuriosidades.batanga.com%2Ffiles%2F101817196.jpg" target="_parent">Menguante Convexa</a>
+      
+      <a href="https://erenovable.com/cuando-es-cuarto-creciente-2017/cuando-es-cuarto-creciente-2017-2020-luna-menguante/" target="_parent">Cuarto Menguante</a>
+   
+      <a href="https://s.calendarr.com/upload/articles/cr/ec/creciente-concava.jpg" target="_parent">Mengaunte concava</a>
+
+      <a href="https://as01.epimg.net/diarioas/imagenes/2022/04/29/actualidad/1651226352_041665_1651226462_noticia_normal_recorte1.jpg" target="_parent">Eclipse solar</a>
+      
+      <a href="https://unamglobal.unam.mx/wp-content/uploads/2019/01/Screenshot-at-Jan-20-18-28-05-300x200.png" target="_parent">Luna roja</a>
+      
+       <a href="https://media.ambito.com/p/0c80083f7cdf1afe8dbc06819798f092/adjuntos/239/imagenes/039/857/0039857399/eclipsewebp.png" target="_parent">Eclipse solar</a>
+      </ul>
+      <figure>
+        
+         <a href="https://www.calendarr.com/mexico/fases-de-la-luna/.">
+        <img src="https://i.pinimg.com/736x/98/73/76/987376ad040b50f3ca6ddfe1b8a7088e.jpg" alt="fase lunar">
+        </a>
+        
+        <figcaption>
+          <p>FASES LUNARES.</p>
+        </figcaption>
+        </ </figure>
+        <figure>
+          
+            <a href="https://www.calendarr.com/mexico/eclipse-lunar/">
+          <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/365WQYP7CBBRPBTTK3J5KL72GI.jpg" alt= "eclipse lunar">
+          </a>
+          
+          <a href="https://planetariochile.cl/eclipses/que-es-un-eclipse-solar/">
+          <img src="https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2022/04/27/2749865.jpg" alt="eclipse solar">
+          </a>
+          
+          <figcaption>
+          <p>FENOMENOS LUNARES Y ASTROLOGICOS</p>
+          </figcaption>
+          </ </figure>
+          <hr>
+          <p>DATO: Una lluvia de meteoros es un evento celeste en el que se observa la irradiación de varios meteoros desde un punto en el cielo nocturno.</p>
+         
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15133.789525770404!2d-88.291929945105!3d18.50867448048275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xff92b1dc57364677!2sMuseo%20de%20la%20Cultura%20Maya!5e0!3m2!1ses!2smx!4v1654988096642!5m2!1ses!2smx" width="260" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </aside>
+    <!--FINALIZA CONTENEDOR DE CONTENIDO PRINCIPAL-->
+  </main>
+
+  <!--PIE DE PÁGINA DEL DOCUMENTO-->
+  <footer>
+    <H3>DERECHOS RESERVADOS SEMS 2022</H3>
+  </footer>
+
+  <!--FINALIZA CUERPO DEL DOCUMENTO-->
+</body>
+
+<!--FINALIZA ESTRUCTURA HTML5-->
+
+</html>
